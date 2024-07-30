@@ -1,6 +1,6 @@
 body {
   background-color: #262626;
-;
+
 }
 
 
@@ -8,7 +8,7 @@ body {
   position: relative;
   left: 0;}
 
-}
+
 html {
   height: 100%;
   width: 100%;
@@ -27,5 +27,4 @@ button {
   right: 300px;
   top: 750px;
   left: 50px;
-
-  .jenna
+}
